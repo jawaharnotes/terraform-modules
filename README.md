@@ -3,7 +3,7 @@ In this repo we will see about terraform modules and resource creation.
 
 ## Modules 
 
-Modules are the collection of resources templates which are required for each other to create resource or solution
+Modules are the collection of resources templates which are required  to create a solution
 
 In our previous repo, We shall how to create the VPC there we had so many resources like VPC, Public, private subnets, IGW, Public Route tables, NAT gateways, Private Route Tables, EIP creation for NAT Gateway, Security Groups.
 We all created manually by defining the resources one by one ourselves
